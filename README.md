@@ -64,10 +64,10 @@ Each question is worth 0.5 points. Total: **10 points**
    - D) `git commit`  
 
 8. What is the purpose of a `.gitignore` file?  
-   - A) Ignore repositories  
+   - A) Ignore repositories
    - **B) Ignore files/folders from being committed**
-   - C) Protect branches  
-   - D) Manage GitHub access  
+   - C) Protect branches
+   - D) Manage GitHub access
 
 ---
 
